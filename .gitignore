@@ -1,0 +1,6 @@
+.pytest_cache
+classification.egg-info
+classification/__pycache__/CLI.cpython-313.pyc
+classification/__pycache__/__init__.cpython-313.pyc
+classification/__pycache__/main.cpython-313.pyc
+tests/__pycache__/test_cli.cpython-313-pytest-8.4.2.pyc
